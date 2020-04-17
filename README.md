@@ -1,4 +1,6 @@
 # Cloudflare Workers Internship Application: Full-Stack
+## Deployed Link
+Check out the deployed worker here: https://full_stack.mdanics.workers.dev
 
 ## What is it?
 
